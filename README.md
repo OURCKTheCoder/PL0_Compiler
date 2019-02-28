@@ -1,3 +1,3 @@
 # PL0_Compiler
 + A simple (front-end) compiler for PL/0. Using Yacc & Flex.
-+ A practice of compiling technique & design pattern.
++ A practice of compiling technique.
